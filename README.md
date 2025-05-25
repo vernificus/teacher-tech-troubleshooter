@@ -36,7 +36,7 @@ This project is a Node.js application. To get it running on your local machine, 
     ```bash
     npm start
     ```
-    This will execute `index.js`, which currently prints a "Hello, Node.js!" message to the console.
+    This will start a web server. Open your web browser and navigate to `http://localhost:3000` (or the port shown in the console if different) to access the Teacher Tech Troubleshooter interface.
 
 ## Project Structure
 
