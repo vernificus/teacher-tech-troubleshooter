@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "**An application to help teachers quickly troubleshoot common classroom technology issues and find solutions.**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vernificus/teacher-tech-troubleshooter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vernificus/teacher-tech-troubleshooter/issues"
+  },
+  "homepage": "https://github.com/vernificus/teacher-tech-troubleshooter#readme"
+}

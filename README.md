@@ -20,9 +20,34 @@ Our goal is to provide clear, concise, and actionable troubleshooting steps, sav
 
 ## Getting Started
 
-_Instructions on how to set up, install, and use the application will be added here once the project is further along in development._
+This project is a Node.js application. To get it running on your local machine, follow these steps:
 
-For now, this repository contains the initial planning and (soon) the codebase for the Teacher Tech Troubleshooter.
+1.  **Prerequisites:** Make sure you have Node.js and npm installed. You can download them from [https://nodejs.org/](https://nodejs.org/).
+2.  **Clone the repository:**
+    ```bash
+    # git clone <repository_url> # Replace <repository_url> with the actual URL
+    # cd <repository_directory>
+    ```
+3.  **Install Dependencies:** Navigate to the project's root directory in your terminal and run:
+    ```bash
+    npm install
+    ```
+4.  **Run the Application:** To start the application, run:
+    ```bash
+    npm start
+    ```
+    This will execute `index.js`, which currently prints a "Hello, Node.js!" message to the console.
+
+## Project Structure
+
+Here's a brief overview of the main files and directories:
+
+-   `package.json`: Contains metadata about the project, including dependencies and scripts.
+-   `index.js`: The main entry point for the application.
+-   `src/`: This directory is intended to hold the core source code of the application.
+-   `tests/`: This directory is intended to hold test files.
+-   `.gitignore`: Specifies intentionally untracked files that Git should ignore.
+-   `README.md`: This file, providing information about the project.
 
 ## Contributing
 
